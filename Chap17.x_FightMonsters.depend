@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1644859880 source:d:\documents\c++\2021\chap17.x_fightmonsters\main.cpp
+	<iostream>
+	"Creature.h"
+	"Player.h"
+	"Monster.h"
+	<cstdlib>
+	<ctime>
+	<cctype>
+
+1644771660 d:\documents\c++\2021\chap17.x_fightmonsters\include\creature.h
+	<iostream>
+
+1644747931 source:d:\documents\c++\2021\chap17.x_fightmonsters\src\creature.cpp
+	"Creature.h"
+
+1644955014 d:\documents\c++\2021\chap17.x_fightmonsters\include\player.h
+	<iostream>
+	"Creature.h"
+	"Monster.h"
+	"Potion.h"
+
+1644955220 source:d:\documents\c++\2021\chap17.x_fightmonsters\src\player.cpp
+	"Player.h"
+
+1644787574 d:\documents\c++\2021\chap17.x_fightmonsters\include\monster.h
+	"Creature.h"
+	<array>
+	<cstdlib>
+	<iostream>
+
+1644787574 source:d:\documents\c++\2021\chap17.x_fightmonsters\src\monster.cpp
+	"Monster.h"
+
+1644955564 d:\documents\c++\2021\chap17.x_fightmonsters\include\potion.h
+	<iostream>
+	<string>
+	<array>
+
