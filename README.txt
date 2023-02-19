@@ -1,1 +1,1 @@
-Just a little game to use C++
+Just a little game to learn C++
